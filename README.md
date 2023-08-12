@@ -1,8 +1,9 @@
+<img  alt="Banner" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
 <h1 align="center">Hi 👋, I'm Given</h1>
-<h3 align="center">A passionate AR, VR and Web developer from Johannesburg, South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif)">
+<h3 align="center">A passionate AR, VR and Web developer from Johannesburg, South Africa</h3><br>
+<p align="right"><img align="right" alt="Coding" width="400" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
 
-<p align="left"> <a href="https://twitter.com/givendeluxe" target="blank"><img src="https://img.shields.io/twitter/follow/givendeluxe?logo=twitter&style=for-the-badge" alt="givendeluxe" /></a> </p>
+<p align="left" > <a href="https://twitter.com/givendeluxe" target="blank"><img src="https://img.shields.io/twitter/follow/givendeluxe?logo=twitter&style=for-the-badge" alt="givendeluxe" /></a> </p>
 
 - 🔭 I’m currently working on [Memorize Game using SwiftUI](https://github.com/givendeluxe/Memorize)
 
